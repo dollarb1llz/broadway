@@ -1,0 +1,40 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.nav-top {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.p-content {
+  font-size: 14px;
+}
+
+.p-footer {
+  font-size: 11px;
+}
+
+.white {
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+}
