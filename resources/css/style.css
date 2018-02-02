@@ -11,9 +11,18 @@ h1 {
   font-size: 70px;
 }
 
+.img-bkdrop {
+  background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
+}
+
 .nav-top {
   font-size: 18px;
+  list-style-type: none;
 }
+  .nav-top a {
+    color: white;
+  }
 
 h2 {
   font-size: 32px;
@@ -35,6 +44,11 @@ h3 {
   color: white;
 }
 
-.footer {
+#footer {
   background-color: dimgray;
+  text-align: left;
+}
+
+p a {
+  color: white;
 }
